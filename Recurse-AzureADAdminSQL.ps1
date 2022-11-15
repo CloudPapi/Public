@@ -1,4 +1,5 @@
-﻿Connect-AzAccount | Out-Null
+﻿#Changes the AAD Admin account for all SQL servers if the current displayname is not equal to $PrincipalDisplayName
+Connect-AzAccount | Out-Null
 $servers = Get-AzSqlServer
 $PrincipalDisplayName = ""
 foreach($server in $servers){
