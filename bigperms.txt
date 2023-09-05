@@ -2,3 +2,5 @@ Directory.ReadWrite.All,19dbc75e-c2e2-444c-a770-ec69d8559fc7
 Group.ReadWrite.All,62a82d76-70ea-41e2-9197-370581804d09
 GroupMember.ReadWrite.All,dbaae8cf-10b5-4b86-a4a1-f871c94c6695
 User.ReadWrite.All,741f803b-c850-494e-b5df-cde7c675a1ca
+AppRoleAssignment.ReadWrite.All,06b708a9-e830-4db3-a914-8e69da51d44f
+RoleManagement.ReadWrite.Directory,9e3f62cf-ca93-4989-b6ce-bf83c28f9fe8
